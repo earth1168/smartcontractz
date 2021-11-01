@@ -1,0 +1,22 @@
+{
+  "name": "smartcontractz",
+  "version": "1.0.0",
+  "description": "My first smart contract created by solidity deploy by hardhat",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earth1168/smartcontractz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/earth1168/smartcontractz/issues"
+  },
+  "homepage": "https://github.com/earth1168/smartcontractz#readme",
+  "devDependencies": {
+    "hardhat": "^2.6.7"
+  }
+}
